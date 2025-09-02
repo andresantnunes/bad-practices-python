@@ -1,4 +1,4 @@
-# 1
+# 1 - faltam as aspas, e em um cógigo normal, não vamos executar essa linhar
 print(Bem-vindo à sua lista de tarefas!)
 
 # 2
